@@ -1,0 +1,2 @@
+celltype annotation file contains custom annotated cluster biomarkers based on unpublished data, obtained from A.Rising research lab
+"lasc" mentioned in the file is a shortened version of "Larinioides Sclopetarius" 
